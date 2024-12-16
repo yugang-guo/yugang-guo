@@ -19,5 +19,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugang-guo&show_icons=true&locale=en" alt="yugang-guo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugang-guo&" alt="yugang-guo" /></p>
